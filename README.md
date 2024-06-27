@@ -1,0 +1,2 @@
+Overview
+Welcome to the Bank Loan Case Study project repository! This project is aimed at analyzing patterns in loan application data to improve decision-making processes in a finance company specializing in lending various types of loans to urban customers. By leveraging Exploratory Data Analysis (EDA), we aim to ensure that capable applicants are not rejected while minimizing the risk of loan defaults.
