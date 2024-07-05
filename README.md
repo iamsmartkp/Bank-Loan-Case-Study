@@ -34,8 +34,8 @@ The primary objectives of this project are:
 
 ### Contributors
 Project Lead and Analyst - 
-Linkedin ID - 
-E-mail ID - 
+Linkedin ID - https://www.linkedin.com/in/iamsmartkanchan/
+E-mail ID - iamsamrt.kanchan@gmail.com
 
 ### Feedback
 We welcome feedback and suggestions! Feel free to open an issue or reach out via email.
